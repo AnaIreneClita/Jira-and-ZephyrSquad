@@ -37,16 +37,88 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 # 1.1.2 Entry criteria defined
 
+- Documentation Review
+- Environment Setup
+- Feature Completeness
+- Content Readiness
+- User Permissions
+- Accessibility and Compatibility
+- Testing Tools and Data
 
 # 1.1.3 Exit criteria defined
 
+- Functional Coverage
+- Performance and Scalability
+- Security
+- Usability and User Experience
+- Cross-Browser and Cross-Device Compatibility
+- Regression Testing
+- Documentation and Reporting
+- Approval and Sign-Off
 
 # 1.1.4 Test scope
 Tests in scope:
-(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+
+1. Functional Testing:
+
+- Product browsing and filtering.
+- Adding products to cart and managing cart items.
+- Checkout process (guest checkout, registered user checkout).
+- Payment processing (credit card, PayPal, etc.).
+- Order management (viewing orders, order history).
+
+2. Compatibility Testing:
+
+- Testing on various browsers: Chrome, Firefox, Safari, Edge.
+- Testing on different devices: Desktop, laptop, tablets, smartphones (iOS, Android).
+
+3. Performance Testing:
+
+- Load testing to ensure the website handles concurrent user traffic.
+- Stress testing to determine system stability under peak load conditions.
+- Response time testing for critical user actions (e.g., product search, checkout).
+
+4. Security Testing:
+
+- Vulnerability assessment (penetration testing) to identify potential security risks.
+- Data encryption testing to ensure customer data security during transactions.
+- Authentication and authorization checks for user roles and permissions.
+
+5. Usability Testing:
+
+- User interface (UI) testing to evaluate design consistency and user experience.
+- Navigation testing to ensure intuitive browsing and ease of finding products.
+- Accessibility testing to verify compliance with WCAG guidelines for users with disabilities.
 
 Tests not in scope:
-(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+
+1. Physical Product Quality Testing:
+
+- Evaluation of the physical quality of clothing items (e.g., fabric durability, stitching quality).
+  
+2. Backend System Integration Testing:
+
+- Testing backend integrations with third-party systems (e.g., ERP, CRM).
+
+3. Geolocation-based Pricing Testing:
+
+- Testing pricing variations based on user location.
+
+4. Legacy Browser Compatibility:
+
+- Testing on outdated browsers that are no longer supported by the website.
+  
+5. Advanced Network Security Testing:
+
+- Deep analysis of network security protocols beyond the website’s scope.
+
+6. Regulatory Compliance Testing:
+
+- Compliance testing with industry-specific regulations (e.g., GDPR, CCPA).
+
+7. Localization and Translation Testing:
+
+- Testing localized versions of the website in different languages.
 
 # 1.1.5 Risks detected
 
@@ -70,6 +142,9 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 # 1.2 Test Monitoring and Control
 (inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/5dd2a7c1-fab8-408b-90c3-806b017d38b0)
+
 
 # 1.3 Test Analysis
 The testing process will be executed based on the application requirements.
@@ -96,7 +171,7 @@ The following elements are needed to be ready before the test execution phase be
 (inserati lista de elemente care sunt evaluate in etapa de implementare)
 
 # 1.6. Test Execution
-Test cases are executed on the created test Cycle summary: FinalProject
+Test cases are executed on the created test Cycle summary: [FinalProject](https://itfclasses.atlassian.net/projects/ANACL?selectedItem=com.thed.zephyr.je__cycle-summary)
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [bug_reports.pdf](https://github.com/user-attachments/files/15820914/bug_reports.pdf)
 
@@ -131,7 +206,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 # 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: (inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)
+[forward_traceability.xlsx](https://github.com/user-attachments/files/15821441/forward_traceability.xlsx)
 
 Test execution chart was generated and can be found below.
 
