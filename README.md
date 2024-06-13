@@ -1,4 +1,4 @@
-[filter_products.csv](https://github.com/user-attachments/files/15827802/filter_products.csv)# Testing Project for SwagLabs Demo
+# Testing Project for SwagLabs Demo
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
 Application under test: [SwagLabs Demo](https://www.saucedemo.com/v1/inventory.html)
