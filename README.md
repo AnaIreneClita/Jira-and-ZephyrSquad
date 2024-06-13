@@ -21,7 +21,7 @@ Here you can find the release that was created for this project:
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/316215d5-2f11-4e54-ad48-d695287b533d)
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/816d8dd6-999e-4f93-bda9-6b170cbf9ddf)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/e5eec503-30ac-4fde-a931-97eb6e5f43d1)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/70a7ea8c-fa69-4a09-9b98-24a56d1fe983)
 
 
 Testing process
@@ -159,6 +159,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/5dd2a7c1-fab8-408b-90c3-806b017d38b0)
 
+
 # 1.3 Test Analysis
 The testing process will be executed based on the application requirements.
 
@@ -227,6 +228,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 Test execution chart was generated and can be found below.
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/dd9a31f1-d572-413b-a81b-3acd3765dfca)
+
 
 The final report shows that a number 8 tests have failed of a total of 12.
 
