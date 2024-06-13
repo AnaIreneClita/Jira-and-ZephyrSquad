@@ -36,6 +36,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 - Software developer: Doe Doe
 - QA Engineer: Ana Clita
 
+| Project Manager  | Product Owner   | Software Developer | QA Engineer     |
+|------------------|-----------------|---------------------|------------------|
+| Jane Doe         | John Doe        | Doe Doe            | Ana Clita       |
+
 # 1.1.2 Entry criteria defined
 
 
