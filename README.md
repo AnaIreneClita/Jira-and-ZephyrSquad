@@ -31,10 +31,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 # 1.1.1. Roles asigned to the project and persons allocated
 
-Project manager - Jane Doe
-Product owner - John Doe
-Software developer - Doe Doe
-QA Engineer - Ana Clita
+- Project manager: Jane Doe
+- Product owner: John Doe
+- Software developer: Doe Doe
+- QA Engineer: Ana Clita
 
 # 1.1.2 Entry criteria defined
 
