@@ -142,17 +142,16 @@ The plan identifies the items to be tested, the features to be tested, the types
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 # 1.2 Test Monitoring and Control
-## Motivul pentru etapa de monitorizare și control:
-Etapa de monitorizare și control în testare este crucială pentru urmărirea progresului testării, identificarea deviațiilor față de planul inițial și asigurarea că obiectivele și criteriile de acceptanță sunt îndeplinite în mod eficient. Această etapă permite echipei de testare să adapteze strategiile și activitățile în timp real, în funcție de rezultatele și descoperirile din procesul de testare.
+## Reason for the monitoring and control stage:
 
-## Cum s-a realizat etapa de monitorizare și control:
-Am implementat etapa de monitorizare și control utilizând Zephyr pentru Jira pentru a gestiona și raporta progresul testării în mod eficient. Iată cum am gestionat această etapă:
+- The monitoring and control stage in testing is crucial for tracking the progress of testing, identifying deviations from the initial plan, and ensuring that objectives and acceptance criteria are efficiently met. This stage allows the testing team to adapt strategies and activities in real-time based on the results and findings from the testing process.
 
-- Definirea obiectivelor și KPI-urilor: Am stabilit obiective clare de testare și indicatori cheie de performanță (KPI-uri) pentru a evalua calitatea și acoperirea testelor.
+## How the monitoring and control stage was conducted:
 
-- Planificarea activităților de testare: Am executat teste în mod regulat pentru a monitoriza și evalua continuu starea și progresul testării. Am asigurat o acoperire extinsă a testelor pentru a detecta și raporta defectele într-un stadiu incipient.
-
-- Generarea rapoartelor de status: Am utilizat Zephyr pentru a genera rapoarte periodice de status (test status report), inclusiv metrici de testare precum numărul de teste planificate, efectuate și rezultatele acestora. Aceste rapoarte au reflectat activitatea zilnică și evoluția testării într-o manieră transparentă și detaliată.
+- We implemented the monitoring and control stage using Zephyr for Jira to manage and report testing progress effectively. Here’s how we managed this stage:
+- Defining objectives and KPIs: We established clear testing objectives and key performance indicators (KPIs) to assess the quality and coverage of the tests.
+- Planning testing activities: We regularly executed tests to continuously monitor and evaluate the status and progress of testing. We ensured comprehensive test coverage to detect and report defects at an early stage.
+- Generating status reports: We used Zephyr to generate regular status reports, including test status reports and testing metrics such as the number of planned tests, executed tests, and their outcomes. These reports reflected daily activity and the evolution of testing in a transparent and detailed manner.
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/5dd2a7c1-fab8-408b-90c3-806b017d38b0)
 
@@ -228,4 +227,8 @@ The final report shows that a number 8 tests have failed of a total of 12.
 
 A number of 24 total bugs were found, from which the priority is: 20 of them are high and 4 of them are medium.
 
-(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
+The total number of stories, both planned and executed, is 2.
+The total number of written and executed tests is 12.
+The number of identified bugs is 24.
+There are 4 bugs with a severity level of "medium". These bugs are related to product filtering, which doesn't prevent users from viewing basic product details or successfully initiating and completing the purchase process. However, they may affect users by making it cumbersome to access products under certain desired conditions and by limiting the visibility of complete product descriptions. This can potentially mislead users when they intend to make a purchase, risking a sense of deception and a perceived lack of transparency on the website.
+There are 20 bugs with a severity level of "high". These bugs directly impact the accurate display of product information and all aspects related to the purchase process. They prevent users from seeing real product information, leading to confusion regarding product titles, descriptions, images, and prices, thus reducing user trust in the website. Additionally, these bugs affect the initiation and completion of the purchase process. They can frustrate users and also bring financial and possibly legal issues to the website.
