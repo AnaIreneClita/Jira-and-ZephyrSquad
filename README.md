@@ -1,4 +1,4 @@
-# Testing Project for SwagLabs Demo
+[filter_products.csv](https://github.com/user-attachments/files/15827802/filter_products.csv)# Testing Project for SwagLabs Demo
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
 Application under test: [SwagLabs Demo](https://www.saucedemo.com/v1/inventory.html)
@@ -192,6 +192,11 @@ The following elements are needed to be ready before the test execution phase be
 
 # 1.6. Test Execution
 Test cases are executed on the created test Cycle summary: [FinalProject](https://itfclasses.atlassian.net/projects/ANACL?selectedItem=com.thed.zephyr.je__cycle-summary)
+
+- [Add Product to Shopping Cart](file:///C:/Users/TinySatan/Downloads/ZFJ-Cycles-06-13-2024.html)
+
+- [Filter Products]()
+
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [bug_reports.pdf](https://github.com/user-attachments/files/15820914/bug_reports.pdf)
 
