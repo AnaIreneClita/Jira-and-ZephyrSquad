@@ -176,7 +176,8 @@ The following test conditions were found:
 - Successful purchase and order placement  
 
 # 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: [test_cases.pdf](https://github.com/user-attachments/files/15822721/test_cases.pdf)
+
 
 # 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
