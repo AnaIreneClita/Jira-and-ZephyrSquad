@@ -27,7 +27,8 @@ The test process was performed based on the standard test process as described b
 
 The Test Plan is designed to describe all details of testing for all the modules from the SwagLabs Demo application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here: [test_plan.docx](https://github.com/user-attachments/files/15822328/test_plan.docx)
+
 
 # 1.1.1. Roles asigned to the project and persons allocated
 
@@ -122,7 +123,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 # 1.1.5 Risks detected
 
-Project risks:
+## Project risks:
 - Inefficient communication
 - Budget overrun
 - Lack of resources
@@ -130,7 +131,7 @@ Project risks:
 - Change in requirements
 - Delivery delays
 
-Product risks:
+## Product risks:
 - Compatibility
 - Slow loading
 - Image quality
@@ -141,10 +142,19 @@ Product risks:
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 # 1.2 Test Monitoring and Control
-(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+## Motivul pentru etapa de monitorizare și control:
+Etapa de monitorizare și control în testare este crucială pentru urmărirea progresului testării, identificarea deviațiilor față de planul inițial și asigurarea că obiectivele și criteriile de acceptanță sunt îndeplinite în mod eficient. Această etapă permite echipei de testare să adapteze strategiile și activitățile în timp real, în funcție de rezultatele și descoperirile din procesul de testare.
+
+## Cum s-a realizat etapa de monitorizare și control:
+Am implementat etapa de monitorizare și control utilizând Zephyr pentru Jira pentru a gestiona și raporta progresul testării în mod eficient. Iată cum am gestionat această etapă:
+
+- Definirea obiectivelor și KPI-urilor: Am stabilit obiective clare de testare și indicatori cheie de performanță (KPI-uri) pentru a evalua calitatea și acoperirea testelor.
+
+- Planificarea activităților de testare: Am executat teste în mod regulat pentru a monitoriza și evalua continuu starea și progresul testării. Am asigurat o acoperire extinsă a testelor pentru a detecta și raporta defectele într-un stadiu incipient.
+
+- Generarea rapoartelor de status: Am utilizat Zephyr pentru a genera rapoarte periodice de status (test status report), inclusiv metrici de testare precum numărul de teste planificate, efectuate și rezultatele acestora. Aceste rapoarte au reflectat activitatea zilnică și evoluția testării într-o manieră transparentă și detaliată.
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/5dd2a7c1-fab8-408b-90c3-806b017d38b0)
-
 
 # 1.3 Test Analysis
 The testing process will be executed based on the application requirements.
@@ -168,7 +178,9 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 # 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
+- Testing Environment
+- Testing Tools
+- Test Data
 
 # 1.6. Test Execution
 Test cases are executed on the created test Cycle summary: [FinalProject](https://itfclasses.atlassian.net/projects/ANACL?selectedItem=com.thed.zephyr.je__cycle-summary)
