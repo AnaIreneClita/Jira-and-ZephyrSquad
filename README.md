@@ -2,7 +2,8 @@
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
 Application under test: [SwagLabs Demo](https://www.saucedemo.com/v1/inventory.html)
-Use the following info to log in: 
+
+## Use the following info to log in: 
 - user: problem_user
 - password: secret_sauce
 
