@@ -21,7 +21,7 @@ Here you can find the release that was created for this project:
 
 
 Testing process
-The test process was performed based on the standard test process as described below.
+ - The test process was performed based on the standard test process as described below.
 
 # 1.1 Test planning
 
