@@ -57,7 +57,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - Approval and Sign-Off
 
 # 1.1.4 Test scope
-Tests in scope:
+## Tests in scope:
 
 1. Functional Testing:
 
@@ -90,7 +90,7 @@ Tests in scope:
 - Navigation testing to ensure intuitive browsing and ease of finding products.
 - Accessibility testing to verify compliance with WCAG guidelines for users with disabilities.
 
-Tests not in scope:
+## Tests not in scope:
 
 1. Physical Product Quality Testing:
 
