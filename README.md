@@ -8,11 +8,17 @@ Tools used: Jira, Zephyr Squad.
 Functional specifications:
 The below stories were created in Jira and describes the functional specifications of the "nume_modul" module, for which the final project is performed upon.
 
-inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/e297db49-35bf-44fd-919e-30aae487a533)
+
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/74f9e9fd-5b55-4634-86e9-bb826d46f188)
+
 
 Here you can find the release that was created for this project:
 
-(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/316215d5-2f11-4e54-ad48-d695287b533d)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/816d8dd6-999e-4f93-bda9-6b170cbf9ddf)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/e5eec503-30ac-4fde-a931-97eb6e5f43d1)
+
 
 Testing process
 The test process was performed based on the standard test process as described below.
