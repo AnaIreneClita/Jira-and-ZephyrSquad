@@ -10,7 +10,7 @@ Application under test: [SwagLabs Demo](https://www.saucedemo.com/v1/inventory.h
 Tools used: Jira, Zephyr Squad.
 
 Functional specifications:
-The below stories were created in Jira and describes the functional specifications of the User Experience module, for which the final project is performed upon.
+The below stories were created in Jira and describes the functional specifications of the User Shopping Experience module, for which the final project is performed upon.
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/e297db49-35bf-44fd-919e-30aae487a533)
 
