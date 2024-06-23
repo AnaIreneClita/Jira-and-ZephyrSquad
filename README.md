@@ -19,9 +19,10 @@ The below stories were created in Jira and describes the functional specificatio
 
 Here you can find the release that was created for this project:
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/316215d5-2f11-4e54-ad48-d695287b533d)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/816d8dd6-999e-4f93-bda9-6b170cbf9ddf)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/70a7ea8c-fa69-4a09-9b98-24a56d1fe983)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/70de2dc5-d1ea-45d7-a935-48f137bb2d7c)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/2c8f5c2c-049a-4afc-b8e4-a75843274fa5)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/9c64b599-13ab-41a0-ac9a-61efda8f577a)
+
 
 
 Testing process
