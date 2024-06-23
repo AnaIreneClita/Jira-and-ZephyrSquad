@@ -12,16 +12,17 @@ Tools used: Jira, Zephyr Squad.
 Functional specifications:
 The below stories were created in Jira and describes the functional specifications of the User Shopping Experience module, for which the final project is performed upon.
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/e297db49-35bf-44fd-919e-30aae487a533)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/6b7f7d69-1cdf-4fc5-9a71-6da2c88d9583)
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/74f9e9fd-5b55-4634-86e9-bb826d46f188)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/1d6e4d3a-7f92-436f-8784-89a3178ff664)
+
 
 
 Here you can find the release that was created for this project:
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/70de2dc5-d1ea-45d7-a935-48f137bb2d7c)
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/2c8f5c2c-049a-4afc-b8e4-a75843274fa5)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/470c8c35-e604-41a0-95e3-6824fe314e21)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/7ce6b96c-8155-4abc-aba4-e955c14fb6b4)
 
 
 
