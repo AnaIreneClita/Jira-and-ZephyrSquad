@@ -139,7 +139,7 @@ The business requirements document that was created for this project can be foun
 - Delivery delays
 
 ## Product risks:
-- Compatibility
+- Compatibility with Internet Explorer
 - Slow loading
 - Image quality
 - Improper functionality
@@ -155,12 +155,13 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 ## How the monitoring and control stage was conducted:
 
-- We implemented the monitoring and control stage using Zephyr for Jira to manage and report testing progress effectively. Here’s how we managed this stage:
-- Defining objectives and KPIs: We established clear testing objectives and key performance indicators (KPIs) to assess the quality and coverage of the tests.
-- Planning testing activities: We regularly executed tests to continuously monitor and evaluate the status and progress of testing. We ensured comprehensive test coverage to detect and report defects at an early stage.
-- Generating status reports: We used Zephyr to generate regular status reports, including test status reports and testing metrics such as the number of planned tests, executed tests, and their outcomes. These reports reflected daily activity and the evolution of testing in a transparent and detailed manner.
+- I implemented the monitoring and control stage using Zephyr for Jira to manage and report testing progress effectively. Here’s how I we managed this stage:
+- Defining objectives and KPIs: I established clear testing objectives and key performance indicators (KPIs) to assess the quality and coverage of the tests.
+- Planning testing activities: I regularly executed tests to continuously monitor and evaluate the status and progress of testing. I ensured comprehensive test coverage to detect and report defects at an early stage.
+- Generating status reports: I used Zephyr to generate regular status reports, including test status reports and testing metrics such as the number of planned tests, executed tests, and their outcomes. These reports reflected daily activity and the evolution of testing in a transparent and detailed manner.
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/5dd2a7c1-fab8-408b-90c3-806b017d38b0)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/f0c0b757-4c2a-4408-b0ef-c9000b5e05c2)
+
 
 
 # 1.3 Test Analysis
@@ -168,8 +169,8 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found:
 - Access filtering options
-- Apply filters
-- Filtering results are displayed
+- Verify that the user can filter search results by alphabetical order
+- Verify that the user can filter search results by price
 - Selecting a product for additional details
 - ‘Add to Cart’ button visibility on product listing page
 - ‘Add to Cart’ button visibility on product details page
@@ -180,7 +181,8 @@ The following test conditions were found:
 - Successful purchase and order placement  
 
 # 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: [test_cases.pdf](https://github.com/user-attachments/files/15822721/test_cases.pdf)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: [test_cases.pdf](https://github.com/user-attachments/files/15945722/test_cases.pdf)
+
 
 
 # 1.5 Test Implementation
@@ -194,7 +196,8 @@ The following elements are needed to be ready before the test execution phase be
 Test cases are executed on the created test Cycle summary: [FinalProject](https://itfclasses.atlassian.net/projects/ANACL?selectedItem=com.thed.zephyr.je__cycle-summary)
 
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [bug_reports.pdf](https://github.com/user-attachments/files/15820914/bug_reports.pdf)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [bug_reports.pdf](https://github.com/user-attachments/files/15945723/bug_reports.pdf)
+
 
 
 The following is a summary of the bugs that have been found:
@@ -227,11 +230,18 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 # 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-[forward_traceability.xlsx](https://github.com/user-attachments/files/15821441/forward_traceability.xlsx)
+Traceability matrix was generated and can be found below. 
+
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/67dbc994-aaa3-4b28-9ab4-3ee47528cb55)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/93bd9e04-8caa-4b49-92b6-49829904c00f)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/90a44027-223e-4fa1-ad7d-42a7ba53c547)
+
+
 
 Test execution chart was generated and can be found below.
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/dd9a31f1-d572-413b-a81b-3acd3765dfca)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/1fc4de96-3d87-4fef-a1c7-23f9c9f094e0)
+
 
 
 The final report shows that a number 8 tests have failed of a total of 12.
