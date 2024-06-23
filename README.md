@@ -21,7 +21,7 @@ Here you can find the release that was created for this project:
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/70de2dc5-d1ea-45d7-a935-48f137bb2d7c)
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/2c8f5c2c-049a-4afc-b8e4-a75843274fa5)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/9c64b599-13ab-41a0-ac9a-61efda8f577a)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/470c8c35-e604-41a0-95e3-6824fe314e21)
 
 
 
