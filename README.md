@@ -233,7 +233,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 Traceability matrix was generated and can be found below. 
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/67dbc994-aaa3-4b28-9ab4-3ee47528cb55)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/93bd9e04-8caa-4b49-92b6-49829904c00f)
+![image](https://github.com/AnaIreneClita/Jira/assets/159917083/335838c9-f4d2-448e-84d7-2257b4a9dd35)
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/90a44027-223e-4fa1-ad7d-42a7ba53c547)
 
 
