@@ -13,7 +13,6 @@ Functional specifications:
 The below stories were created in Jira and describes the functional specifications of the User Shopping Experience module, for which the final project is performed upon.
 
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/6b7f7d69-1cdf-4fc5-9a71-6da2c88d9583)
-
 ![image](https://github.com/AnaIreneClita/Jira/assets/159917083/1d6e4d3a-7f92-436f-8784-89a3178ff664)
 
 
