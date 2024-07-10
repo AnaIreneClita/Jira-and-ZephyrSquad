@@ -7,26 +7,28 @@ Application under test: [SwagLabs Demo](https://www.saucedemo.com/v1/inventory.h
 - user: problem_user
 - password: secret_sauce
 
-Tools used: Jira, Zephyr Squad.
+**Tools used**: Jira, Zephyr Squad.
 
 Functional specifications:
-The below stories were created in Jira and describes the functional specifications of the User Shopping Experience module, for which the final project is performed upon.
+The below **stories** were created in Jira and describes the functional specifications of the User Shopping Experience module, for which the final project is performed upon.
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/6b7f7d69-1cdf-4fc5-9a71-6da2c88d9583)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/1d6e4d3a-7f92-436f-8784-89a3178ff664)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/a0d4a16d-db20-4cf1-9009-9f444d5a86d9)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/5a164e91-5b54-4f3a-b50e-04b474fcb2ca)
 
 
 
-Here you can find the release that was created for this project:
+Here you can find the **release** that was created for this project:
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/70de2dc5-d1ea-45d7-a935-48f137bb2d7c)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/2c8f5c2c-049a-4afc-b8e4-a75843274fa5)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/33b1a5f5-8001-460b-b82b-30beaa960cbf)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/2e76789b-ada4-4f6f-98dd-bc5c16290838)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/0b92464c-f398-4fdc-b078-a48a0b7fe69e)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/e0ce762c-e8a8-4773-ad70-455cf3a1e579)
 
 
 
 Testing process
+
  - The test process was performed based on the standard test process as described below.
+
 
 # 1.1 Test planning
 
@@ -34,9 +36,10 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
-The test plan that was created for this project can be found here: [test_plan.docx](https://github.com/user-attachments/files/15841562/test_plan.docx)
+The **test plan** that was created for this project can be found here: [test_plan.docx](https://github.com/user-attachments/files/15841562/test_plan.docx)
 
-The business requirements document that was created for this project can be found here: [business_requirements.pdf](https://github.com/user-attachments/files/15826554/business_requirements.pdf)
+The **business requirements** document that was created for this project can be found here: [business_requirements.pdf](https://github.com/user-attachments/files/15826554/business_requirements.pdf)
+
 
 # 1.1.1. Roles asigned to the project and persons allocated
 
@@ -44,11 +47,13 @@ The business requirements document that was created for this project can be foun
 |------------------|-----------------|---------------------|------------------|
 | Jane Doe         | John Doe        | Doe Doe            | Ana Clita       |
 
+
 # 1.1.2 Entry criteria defined
 
 - Business Requirements Readiness
 - Test Plan Readiness
 - Roles are Allocated
+
 
 # 1.1.3 Exit criteria defined
 
@@ -60,6 +65,7 @@ The business requirements document that was created for this project can be foun
 - Regression Testing
 - Documentation and Reporting
 - Approval and Sign-Off
+
 
 # 1.1.4 Test scope
 ## Tests in scope:
@@ -125,6 +131,7 @@ The business requirements document that was created for this project can be foun
 
 - Testing localized versions of the website in different languages.
 
+
 # 1.1.5 Risks detected
 
 ## Project risks:
@@ -142,8 +149,10 @@ The business requirements document that was created for this project can be foun
 - Improper functionality
 - Complicated navigation
 
+
 # 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
+
 
 # 1.2 Test Monitoring and Control
 ## Reason for the monitoring and control stage:
@@ -155,31 +164,29 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 - I implemented the monitoring and control stage using Zephyr for Jira to manage and report testing progress effectively. Here’s how I we managed this stage:
 - Defining objectives and KPIs: I established clear testing objectives and key performance indicators (KPIs) to assess the quality and coverage of the tests.
 - Planning testing activities: I regularly executed tests to continuously monitor and evaluate the status and progress of testing. I ensured comprehensive test coverage to detect and report defects at an early stage.
-- Generating status reports: I used Zephyr to generate regular status reports, including test status reports and testing metrics such as the number of planned tests, executed tests, and their outcomes. These reports reflected daily activity and the evolution of testing in a transparent and detailed manner.
+- Generating **status report**s: I used Zephyr to generate regular status reports, including test status reports and testing metrics such as the number of planned tests, executed tests, and their outcomes. These reports reflected daily activity and the evolution of testing in a transparent and detailed manner.
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/f0c0b757-4c2a-4408-b0ef-c9000b5e05c2)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/8844b229-2557-44fe-8bc5-b4e636a67ac1)
+
 
 
 
 # 1.3 Test Analysis
 The testing process will be executed based on the application requirements.
 
-The following test conditions were found:
-- Access filtering options
-- Verify that the user can filter search results by alphabetical order
-- Verify that the user can filter search results by price
-- Selecting a product for additional details
-- ‘Add to Cart’ button visibility on product listing page
-- ‘Add to Cart’ button visibility on product details page
-- Product list page ‘Add to Cart’ button functionality
-- Product details page ‘Add to Cart’ button functionality
-- Product addition from product details page
-- Access to shopping cart and viewing of added products
-- Successful purchase and order placement  
+The following **test conditions** were found:
+
+- Verify That The User Can Filter Search Results By Alphabetical Order
+- Verify That The User Can Filter Search Results By Price
+- Verify That By Clicking On A Product The Products Details Page Opens Displaying The Correct Information
+- Verify That By Clicking On 'Add To Cart' The Product From The Product Listing Page Is Added To Cart
+- Verify That The Shopping Cart And Its Content Can Be Accessed
+- Verify That The Order Placement Process Can Be Made Successfully
+- Verify That By Clicking On 'Add To Cart’ The Product From The Product Details Page Is Added To Cart
+
 
 # 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: [test_cases.pdf](https://github.com/user-attachments/files/15945722/test_cases.pdf)
-
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The **test cases** can be accessed here: [test_cases.pdf](https://github.com/userattachments/files/16169603/test_cases.pdf)
 
 
 # 1.5 Test Implementation
@@ -189,64 +196,70 @@ The following elements are needed to be ready before the test execution phase be
 - Testing Tools
 - Test Data
 
+
 # 1.6. Test Execution
-Test cases are executed on the created test Cycle summary: [FinalProject](https://itfclasses.atlassian.net/projects/ANACL?selectedItem=com.thed.zephyr.je__cycle-summary)
+**Test cases** are executed on the created test Cycle summary: [FinalProject](https://itfclasses.atlassian.net/projects/ANACL?selectedItem=com.thed.zephyr.je__cycle-summary)
 
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [bug_reports.pdf](https://github.com/user-attachments/files/15945723/bug_reports.pdf)
+Bugs have been created based on the failed tests. The complete **bug reports** can be found here: [bug_reports.pdf](https://github.com/user-attachments/files/16169607/bug_reports.pdf)
 
+The following is a **summary** of the bugs that have been found:
 
-
-The following is a summary of the bugs that have been found:
-- Filtering not displaying products in alphabetical order (Z-A) - low priority, medium severity
-- Filtering not displaying products in price order (low to high) - low priority, medium severity
-- Filtering not displaying products in price order (high to low) - low priority, medium severity
-- Products details page not opening when products price is clicked - low priority, medium severity
-- No products display the correct title - urgent priority, high severity
-- No products display the correct image - urgent priority, high severity
-- No products display the correct price - urgent priority, high severity
-- No products display the correct description - urgent priority, high severity
-- 'Add to cart' button doesn't change for the second product on the first column - urgent priority, high severity
-- 'Add to cart' button doesn't change for the second product on the second column - urgent priority, high severity
-- 'Add to cart' button doesn't change for the third product on the second column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the second product on the first column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the second product on the second column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the third product on the second column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the first product on the first column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the third product on the first column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the first product on the second column - urgent priority, high severity
-- 'Add to cart' button doesn't change for the first product on the first column - urgent priority, high severity
-- 'Add to cart' button doesn't change for the third product on the first column - urgent priority, high severity
-- 'Add to cart' button doesn't change for the first product on the second column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the first product on the first column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the third product on the first column - urgent priority, high severity
-- 'Add to cart' button doesn't work for the first product on the second column - urgent priority, high severity
-- 'Your Information' fields can't be completed - urgent priority, high severity
+- Filtering not displaying products in alphabetical order (Z-A) - medium priority, low severity
+- Filtering not displaying products in price order (low to high) - medium priority, low severity
+- Filtering not displaying products in price order (high to low) - medium priority, low severity
+- Products details page not opening when products price is clicked - medium priority, low severity
+- No products display the correct title - high priority, very high severity
+- No products display the correct image - high priority, very high severity
+- No products display the correct price - high priority, very high severity
+- No products display the correct description - high priority, very high severity
+- 'Add to cart' button doesn't change for the second product on the first column - high priority, very high severity
+- 'Add to cart' button doesn't change for the second product on the second column - high priority, very high severity
+- 'Add to cart' button doesn't change for the third product on the second column - high priority, very high severity
+- 'Add to cart' button doesn't work for the second product on the first column - high priority, very high severity
+- 'Add to cart' button doesn't work for the second product on the second column - high priority, very high severity
+- 'Add to cart' button doesn't work for the third product on the second column - high priority, very high severity
+- 'Add to cart' button doesn't work for the first product on the first column - high priority, very high severity
+- 'Add to cart' button doesn't work for the third product on the first column - high priority, very high severity
+- 'Add to cart' button doesn't work for the first product on the second column - high priority, very high severity
+- 'Add to cart' button doesn't change for the first product on the first column - high priority, very high severity
+- 'Add to cart' button doesn't change for the third product on the first column - high priority, very high severity
+- 'Add to cart' button doesn't change for the first product on the second column - high priority, very high severity
+- 'Add to cart' button doesn't work for the first product on the first column - high priority, very high severity
+- 'Add to cart' button doesn't work for the third product on the first column - high priority, very high severity
+- 'Add to cart' button doesn't work for the first product on the second column - high priority, very high severity
+- 'Your Information' fields can't be completed - high priority, very high severity
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
+
 # 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-Traceability matrix was generated and can be found below. 
+**Traceability matrix** was generated and can be found below. 
 
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/67dbc994-aaa3-4b28-9ab4-3ee47528cb55)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/335838c9-f4d2-448e-84d7-2257b4a9dd35)
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/90a44027-223e-4fa1-ad7d-42a7ba53c547)
-
-
-
-Test execution chart was generated and can be found below.
-
-![image](https://github.com/AnaIreneClita/Jira/assets/159917083/1fc4de96-3d87-4fef-a1c7-23f9c9f094e0)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/11497091-3132-4000-9d1f-ed33c3291321)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/3b3feae2-bafb-4a57-bc7c-c823b8bf3228)
 
 
 
-The final report shows that a number 8 tests have failed of a total of 12.
 
-A number of 24 total bugs were found, from which the priority is: 20 of them are high and 4 of them are medium.
+**Test execution chart** was generated and can be found below.
 
-The total number of stories, both planned and executed, is 2.
-The total number of written and executed tests is 12.
-The number of identified bugs is 24.
-There are 4 bugs with a severity level of "medium". These bugs are related to product filtering, which doesn't prevent users from viewing basic product details or successfully initiating and completing the purchase process. However, they may affect users by making it cumbersome to access products under certain desired conditions and by limiting the visibility of complete product descriptions. This can potentially mislead users when they intend to make a purchase, risking a sense of deception and a perceived lack of transparency on the website.
-There are 20 bugs with a severity level of "high". These bugs directly impact the accurate display of product information and all aspects related to the purchase process. They prevent users from seeing real product information, leading to confusion regarding product titles, descriptions, images, and prices, thus reducing user trust in the website. Additionally, these bugs affect the initiation and completion of the purchase process. They can frustrate users and also bring financial and possibly legal issues to the website.
+![Screenshot 2024-07-11 004506](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/5a8f4203-e282-4de2-9b37-a59e47754c6a)
+
+
+
+
+The final report shows that a number 7 tests have **failed** of a total of 7.
+
+A number of 24 **total bugs** were found, from which the priority is: 20 of them are high and 4 of them are medium.
+
+The total number of **stories**, both planned and executed, is 2.
+
+The total number of written and executed **tests** is 7.
+
+The number of identified **bugs** is 24.
+
+There are 4 bugs with a severity level of **"medium"**. These bugs are related to product filtering, which doesn't prevent users from viewing basic product details or successfully initiating and completing the purchase process. However, they may affect users by making it cumbersome to access products under certain desired conditions and by limiting the visibility of complete product descriptions. This can potentially mislead users when they intend to make a purchase, risking a sense of deception and a perceived lack of transparency on the website.
+
+There are 20 bugs with a severity level of **"high"**. These bugs directly impact the accurate display of product information and all aspects related to the purchase process. They prevent users from seeing real product information, leading to confusion regarding product titles, descriptions, images, and prices, thus reducing user trust in the website. Additionally, these bugs affect the initiation and completion of the purchase process. They can frustrate users and also bring financial and possibly legal issues to the website.
