@@ -46,13 +46,9 @@ The business requirements document that was created for this project can be foun
 
 # 1.1.2 Entry criteria defined
 
-- Documentation Review
-- Environment Setup
-- Feature Completeness
-- Content Readiness
-- User Permissions
-- Accessibility and Compatibility
-- Testing Tools and Data
+- Business Requirements Readiness
+- Test Plan Readiness
+
 
 # 1.1.3 Exit criteria defined
 
