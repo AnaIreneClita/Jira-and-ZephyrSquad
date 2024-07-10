@@ -48,7 +48,7 @@ The business requirements document that was created for this project can be foun
 
 - Business Requirements Readiness
 - Test Plan Readiness
-
+- Roles are Allocated
 
 # 1.1.3 Exit criteria defined
 
