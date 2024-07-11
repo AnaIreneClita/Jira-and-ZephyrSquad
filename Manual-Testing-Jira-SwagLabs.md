@@ -186,7 +186,7 @@ The following **test conditions** were found:
 
 
 # 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The **test cases** can be accessed here: [test_cases.pdf](https://github.com/userattachments/files/16169603/test_cases.pdf)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The **test cases** can be accessed here: [test_cases.pdf](https://github.com/user-attachments/files/16180928/test_cases.pdf)
 
 
 # 1.5 Test Implementation
