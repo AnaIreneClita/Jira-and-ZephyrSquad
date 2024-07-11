@@ -12,8 +12,8 @@ Application under test: [SwagLabs Demo](https://www.saucedemo.com/v1/inventory.h
 Functional specifications:
 The below **stories** were created in Jira and describes the functional specifications of the User Shopping Experience module, for which the final project is performed upon.
 
-![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/a0d4a16d-db20-4cf1-9009-9f444d5a86d9)
-![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/5a164e91-5b54-4f3a-b50e-04b474fcb2ca)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/02f9332c-c8f0-4282-b7fd-e73a42cb322a)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/efcc1a03-d340-41cf-91c2-f581173282cc)
 
 
 
