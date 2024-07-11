@@ -166,7 +166,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 - Planning testing activities: I regularly executed tests to continuously monitor and evaluate the status and progress of testing. I ensured comprehensive test coverage to detect and report defects at an early stage.
 - Generating **status report**s: I used Zephyr to generate regular status reports, including test status reports and testing metrics such as the number of planned tests, executed tests, and their outcomes. These reports reflected daily activity and the evolution of testing in a transparent and detailed manner.
 
-![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/8844b229-2557-44fe-8bc5-b4e636a67ac1)
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/9b7e5716-1652-43cb-8276-d550e57b3d11)
 
 
 
