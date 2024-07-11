@@ -179,10 +179,10 @@ The following **test conditions** were found:
 - Verify That The User Can Filter Search Results By Alphabetical Order
 - Verify That The User Can Filter Search Results By Price
 - Verify That By Clicking On A Product The Products Details Page Opens Displaying The Correct Information
+- Verify That By Clicking On 'Add To Cart’ The Product From The Product Details Page Is Added To Cart
 - Verify That By Clicking On 'Add To Cart' The Product From The Product Listing Page Is Added To Cart
 - Verify That The Shopping Cart And Its Content Can Be Accessed
 - Verify That The Order Placement Process Can Be Made Successfully
-- Verify That By Clicking On 'Add To Cart’ The Product From The Product Details Page Is Added To Cart
 
 
 # 1.4 Test Design
