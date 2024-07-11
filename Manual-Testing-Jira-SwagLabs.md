@@ -244,8 +244,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 **Test execution chart** was generated and can be found below.
 
-![Screenshot 2024-07-11 004506](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/5a8f4203-e282-4de2-9b37-a59e47754c6a)
-
+![image](https://github.com/AnaIreneClita/Jira-and-ZephyrSquad/assets/159917083/73941ce6-7a84-4a46-bd14-85d7e12a1279)
 
 
 
